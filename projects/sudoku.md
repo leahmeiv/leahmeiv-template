@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sudoku-paper.jpg
 title: Recursive Hexadecimal Sudoku
-permalink: projects/micromouse
+permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-16
 labels:
