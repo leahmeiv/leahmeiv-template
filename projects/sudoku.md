@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudoku-paper.jpg
+image: images/sudoku-example1.png
 title: Recursive Hexadecimal Sudoku
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
