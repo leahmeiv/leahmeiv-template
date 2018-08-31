@@ -2,56 +2,48 @@
   "basics": {
     "name": "Leah-Mei Villanueva",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://leahmeiv.github.io/images/leah.png",
+    "email": "leahmei@hawaii.edu",
+    "phone": "",
+    "website": "https://leahmeiv.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "leahmeiv",
+        "url": "http://github.com/leahmeiv"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "leahmeiv",
+        "url": "http://linkedin.com/in/leahmeiv"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "email",
+        "username": "leahmei@hawaii.edu",
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Gaming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computers",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -59,105 +51,80 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
+      "level": "Beginner",
+      "keywords": [ 
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected graduation Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-11",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "gpa": "3.08",
+      "courses": ["ICS 311: Algorithms", 
+                  "ICS 314: Software Engineering",
+                  "MATH 242: Calculus 2",
+                  "SPAN 202: Spanish 4",
+                  "AMST 150: American and the World"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "The Lemonade Alley",
+      "website": "http://http://lemonadealley.com/",
+      "position": "Helper",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-15",
+      "summary": "Assisted the kids to prepare them to present their lemonade stands",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Seeing happy children",
+        "Maintain a healthy relationship with the children"
       ]
     },
     {
-      "organization": "",
+      "organization": "American Savings Bank",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Painter",
+      "startDate": "2016-04-16",
+      "endDate": "2016-04-16",
+      "summary": "Helped clean up A'ala Park",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helping the community",
+        "Teamwork",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+      "title": "CTE Honors",
+      "date": "2017",
+      "awarder": "State of Hawaii DOE",
+      "summary": "The Career and Technical Education Honors Recognition Certificate (CTE) was given to students who passed Biology with a B grade or higher and completed the given project from their career pathway program"
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Academic Honors",
+      "date": "2017",
+      "awarder": "State of Hawaii DOE",
+      "summary": "I completed 4 credits of math and science and 2 credits of college level courses in highschool"
+    }
+    {
+      "title": "Magna Cum Laude",
+      "date": "2017",
+      "awarder": "State of Hawaii DOE",
+      "summary": "I graduated highschool with a 3.5 GPA"
     }
   ],
   "references": [
