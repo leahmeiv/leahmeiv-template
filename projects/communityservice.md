@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/volunteer-hands.png
 title: Community Service
-permalink: projects/cotton
+permalink: projects/volunteer
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
