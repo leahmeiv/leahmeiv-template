@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Stack Overflow
   - Javascript 
-  summary: Was this question smart enough?
 ---
 
 ## Intelligence Starts with YOU
