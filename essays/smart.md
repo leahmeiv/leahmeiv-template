@@ -11,3 +11,8 @@ Are you finding that getting the green checkmark is painful, or useful, or both,
 Write an interesting, informative essay on coding standards that addresses some or all of the above questions,
 or goes in a different direction entirely regarding coding standards. Make sure it provides your personal 
 perspective and useful insights.
+
+# Just a Code Away
+While others may think coding standards can help you learn programming language, you may think of coding standards as how many spaces to indent or where you put your curly braces. Coding, to me, is like learning a different language, for instance, Spanish. Forgetting an accent on a letter may create a different word or that word may not exist at all. Meanwhile, forgetting a comma in a list of numbers or mispelling a word in a code can lead to either an unexpected outcome, or the program exploding with errors. 
+
+# First Impressions
