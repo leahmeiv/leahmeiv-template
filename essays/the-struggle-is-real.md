@@ -12,8 +12,6 @@ labels:
   - CSS
   - Semantic UI
 ---
-
-## The Struggle is Real
 UI Frameworks are not simple and can be almost as complicated as learning a new programming language. As a beginner in using Semantic UI, I fell in love with creating designs of websites, but in return, I acquired a lot of frustration. What kind of menu was I supposed to make? How am I supposed to put a button over an image? I we did not have UI frameworks, where and how would we make the websites? 
 
 ## The Limit Does Not Exist
