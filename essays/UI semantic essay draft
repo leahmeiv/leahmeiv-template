@@ -1,3 +1,18 @@
+---
+layout: essay
+type: essay
+title: INSERT TITLE HERE
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-04
+labels:
+  - Software Engineering
+  - IntelliJ
+  - UI Frameworks
+  - HTML
+  - CSS
+  - Semantic UI
+---
+
 UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. 
 Given that, why bother to use something like Semantic UI? What does one get in return for the investment of time and 
 frustration? Why not just use raw HTML and CSS? Are the software engineering benefits of UI frameworks?
