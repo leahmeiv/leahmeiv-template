@@ -32,4 +32,57 @@ Design patterns in software developement
 
 Describging a design pattern
 - Name: meaning ful descriptor
-Problem description
+Problem description:
+- When to apply the patter
+Solution description:
+- The classes, objects, etc. and their relationships
+Consequences
+-Trade offs of using that pattern
+Factory Problem Description
+- Create objects without exposing underlying logic potentially returning objects associated with different classes, and or creating dependent objects
+Advantages over OO class constructor
+-can return objects from different classes
+-return multiple objects
+-can build additional dependent objects
+Disadvantages
+-More complicated than OO class constructor
+
+Singleton Problem description
+- Provide a global variable in an object oriented language that deos not support global variables and provide complex global site
+
+Advntantages
+- provides glpbal state in an pbject oriented manner
+- easy to implement lazy initialization
+Disadvantages 
+-not normally thread safe
+- global state is often unwise
+
+Observer problem description
+- When a set of objects (observers) need to be informed whenever a change in state occurs to another object (subject)
+- This is a common scenario in event driven systems when you need to provide one or more event handlers
+
+Observer Consequences
+Advantages
+- define a one to many dependency without tight coupling
+- allows open ended numbers of dependencies
+- allows dependencies to change at run time
+Disadvantages
+- Poor implementations can lead to performance issues
+- Can lead to race conditions in multi-threaded systems
+- Can be harder to reason about and debug
+
+Model View controller 
+- When implementing a user interface, it is desirable to decouple the internal representation of information from the way it is presented to and accepted from the user
+Advantages
+- This specific partitioning of responsibilities fascilitates concurrent developement by people with different skill sets (view by interface specialist, model by DB specialistm etc)
+- Low coupling between components
+- A model can have multiple views
+Disadvantages
+-COmplexity and learning curve
+
+Antipatterns
+- Commonly occuring solutions to probalmes with decidedly negative consequences
+- Manager doesn't know any better
+-Not enough experience
+- Apllying a good pattern in wrong context
+- Example: Lava flow.. dead code and forgotten design information is frozen in a changing implementation, similar to how molten lava turns to rock
