@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/piano.png
 title: Piano Tunes
-permalink: projects/vacay
+permalink: projects/pianotunes
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
