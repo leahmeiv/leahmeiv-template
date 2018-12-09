@@ -1,3 +1,19 @@
+---
+layout: project
+type: project
+image: images/uhbazaar
+title: Community Service
+permalink: projects/volunteer
+# All dates must be YYYY-MM-DD format!
+date: 2018-08-30
+labels:
+  - Community
+  - Volunteer
+  - Teamwork
+summary: A summary of my community service experiences and how it relates to Computer Science.
+---
+
+
 # Table of Contents
 
 * [About UH Bazaar](#about-uh-bazaar)
