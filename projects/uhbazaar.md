@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uh-bazaar-logo.png
 title: UH Bazaar, a Community for the Community
-permalink: projects/volunteer
+permalink: projects/uhbazaar
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-06
 labels:
