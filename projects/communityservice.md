@@ -10,7 +10,7 @@ labels:
   - Community
   - Volunteer
   - Teamwork
-summary: A summary of my community service experiences and how it relates to Computer Science.
+summary: Community service and computer science have taught me the benefits of working with others.
 ---
 
 During my junior year of high school, I started doing community services that involved cleaning up parks and schools and assisting elderly patients and disabled children. In the park clean ups, all the volunteers were seperated into different areas, like the playgrounds or the tree areas. Each group had various tasks to accomplish until the end of the day. Since we were in a public park, a few obstacles were encountered, but teamwork solved the problem. 
