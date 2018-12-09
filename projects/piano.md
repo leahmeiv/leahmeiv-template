@@ -12,7 +12,7 @@ labels:
   - Skill
   - Piano
   - Creativity
-summary: Learning different songs on the piano is the same as learning different codes in computer science.
+summary: Learning different songs on the piano is like the building blocks of computer science when you are trying to figure out how to code something. Each time you miss one line of notes, it is a reminder of how you messed up that one line of code. Keep trying and never give up.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/piano-sheet.png">
