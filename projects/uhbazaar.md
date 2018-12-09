@@ -1,16 +1,20 @@
 ---
 layout: project
 type: project
-image: images/uhbazaar
+image: images/uh-bazaar-logo.png
 title: Community Service
 permalink: projects/volunteer
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
-  - Community
-  - Volunteer
+  - Final Project
+  - Collaboration
   - Teamwork
-summary: A summary of my community service experiences and how it relates to Computer Science.
+  - Javascript
+  - Meteor
+  - Semantic UI
+  - React
+summary: Collaborated with three people to create a Metoer application, called UH Bazaar, which aims to provide a localized marketplace for the University of Hawaii at Manoa
 ---
 
 
