@@ -55,24 +55,24 @@ follow.
 ### [Landing Page](http://uhbazaar.meteorapp.com/#/)
 #### The landing page when there is no user
 
-<img class="ui small image" src="../images/landing-page-without-user.png"/>
+<img class="ui large image" src="../images/landing-page-without-user.png"/>
 
 From here the user can can log in, or choose to become a member.
 
 
 ##### The landing page greets the user, with a brief overview of what the application intends to accomplish.
 
-<img class="ui small image" src="../images/landing-page-with-user.png"/>
+<img class="ui large image" src="../images/landing-page-with-user.png"/>
 
-<img class="ui small image" src="../images/user-landing-page.png"/>
+<img class="ui large image" src="../images/user-landing-page.png"/>
 
 
 
 ### User Profile
 ##### The profile of a user's own account gives additional options, including 'edit profile' and 'remove' your items.
 
-<img class="ui small image" src="../images/user-profile-page.png"/>
-<img class="ui small image" src="../images/user-profile-page-bottom.png"/>
+<img class="ui large image" src="../images/user-profile-page.png"/>
+<img class="ui large image" src="../images/user-profile-page-bottom.png"/>
 
 
 If a user visits their account page and they don't have any items, a button appears, linking to the create an item page!
@@ -80,35 +80,35 @@ If a user visits their account page and they don't have any items, a button appe
 ### Edit Profile
 ##### This page allows simple edits to be made to a user's profile.
 
-<img class="ui small image" src="../images/edit-profile-update.png"/>
+<img class="ui large image" src="../images/edit-profile-update.png"/>
 
 When editing, the current data is displayed to the user in the text boxes.
 
 ### View Users
 ##### The view other users page displays a list of all the users in the system.
 
-<img class="ui small image" src="../images/view-users-page.png"/>
+<img class="ui large image" src="../images/view-users-page.png"/>
 
 From here, users can browse other profiles and see what people are trying to get rid of!
 
 ### New Item Page
 ##### This page allows users to post their items!
 
-<img class="ui small image" src="../images/newItem.png"/>
+<img class="ui large image" src="../images/newItem.png"/>
 
 The new item page allows a user to create a listing for an item / service.
 
 ### Categories Page
 ##### The categories page displays links to items grouped by categories!
 
-<img class="ui small image" src="../images/updated-categories-page.png"/>
+<img class="ui large image" src="../images/updated-categories-page.png"/>
 
 A simple way to look at what users have to offer.
 
 ### Category Page
 ##### This page lists all the items by category.
 
-<img class="ui small image" src="../images/updated-category-page.png"/>
+<img class="ui large image" src="../images/updated-category-page.png"/>
 
 Here, the user can sort the items by title, date or price.  A convenient sidebar allows for fast and
 efficient transitioning through categories!
@@ -116,14 +116,14 @@ efficient transitioning through categories!
 ### Search Feature
 ##### Users can simply look up items by keyword!
 
-<img class="ui small image" src="../images/search-bar-image.png"/>
+<img class="ui large image" src="../images/search-bar-image.png"/>
 
 A fast and efficient way to see if an item is available through UH Bazaar.
 
 ### Admin Page
 ##### An admin can administer!
 
-<img class="ui small image" src="../images/admin-page.png"/>
+<img class="ui large image" src="../images/admin-page.png"/>
 
 An admin has access to editing and deleting all database documents on the application
 
@@ -300,7 +300,7 @@ upstream	https://github.com/uhbazaar/uhbazaar.github.io.git (push)
 ### Phase  2
 #### Editing Code and Creating a pull request
 -First create an issue in your organizations github project repo.
-<img src="../images/issueCreated.png"/>
+<img class="ui large image" src="../images/issueCreated.png"/>
 - Open your command line and cd into your personal forked directory.
 - Now we have to pull from the upstream master branch and push it to your personal origin master branch.  Otherwise you won't be working with the most current version of upstream master. This must be done evey time before making a new branch. Also you should only enter these next two commands when in your local master branch.
 ```bash
