@@ -115,6 +115,57 @@
     { 
        "organization": "American Savings Bank",
       "website": "",
+      "position": "Volunteer",
+      "startDate": "2014-07",
+      "endDate": "2014-07",
+      "summary": "Beautification of University of Hawaii at Manoa",
+      "highlights": [
+        "Painted curbs",
+        "Teamwork",
+        "Planted baby bamboo trees",
+        "Raked leaves and pulled weeds out"
+      ]
+    },
+    {
+      "organization": "Chaminade University: Ohana Club",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2015-11",
+      "endDate": "2015-11",
+      "summary": "Children with disabilities were assisted in creating paper turkies for Thanksgiving along with other fun activities",
+      "highlights": [
+        "Helping disabled children create arts and crafts for Thanksgiving",
+        "Collaborating with college students as a high school student"
+      ]
+    },
+    {
+      "organization": "Chaminade University: Scrubs Pre-Health Club",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2015-12",
+      "endDate": "2015-12",
+      "summary": "Made arts and crafts with geriatric patients and played bingo with them",
+      "highlights": [
+        "Making bowl maracas with the geriatric patients",
+        "Collaborating with college students as a high school student",
+        "Seeing the smiles on the patients' grow"
+      ]
+    },
+    {
+"organization": "American Savings Bank",
+      "website": "",
+      "position": "Painter",
+      "startDate": "2016-04",
+      "endDate": "2016-04",
+      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
+      "highlights": [
+        "Helping the community",
+        "Teamwork",
+        ]
+    },
+    { 
+       "organization": "American Savings Bank",
+      "website": "",
       "position": "Painter",
       "startDate": "2015-04",
       "endDate": "2015-04",
