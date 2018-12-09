@@ -1,13 +1,15 @@
----
-*/layout: essay/*
-*/type: essay/*
+
+<!---
+layout: essay
+type: essay
 title: "Final Project Idea"
 date: 2018-10-30
 labels:
   - Software Engineering
   - Meteor
   - Co-authors: Leah-Mei Villanueva and Michael Boyle
----
+-->
+
 # Project: UH and Chill
 
 ## Overview
