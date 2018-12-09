@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/uh-bazaar-logo.png
-title: Community Service
+title: UH Bazaar, a Community for the Community
 permalink: projects/volunteer
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2018-12-06
 labels:
   - Final Project
   - Collaboration
