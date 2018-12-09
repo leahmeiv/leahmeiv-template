@@ -152,31 +152,18 @@
       ]
     },
     {
-"organization": "American Savings Bank",
-      "website": "",
-      "position": "Painter",
-      "startDate": "2016-04",
-      "endDate": "2016-04",
-      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
-      "highlights": [
-        "Helping the community",
-        "Teamwork",
-        ]
-    },
-    { 
        "organization": "American Savings Bank",
       "website": "",
-      "position": "Painter",
+      "position": "Volunteer",
       "startDate": "2015-04",
       "endDate": "2015-04",
-      "summary": "Helped clean up A'ala Park",
+      "summary": "Helped clean up A'ala Park by picking up the trash surrounding the area.",
       "highlights": [
         "Helping the community",
         "Teamwork"
       ]
     },
-    {
-       
+    {  
       "organization": "Bizgenics Foundation: Lemonade Alley",
       "website": "http://http://lemonadealley.com/",
       "position": "Volunteer",
@@ -187,6 +174,18 @@
         "Seeing happy children",
         "Maintain a healthy relationship with the children",
         "Leadership"
+         ]
+    },
+    {  
+    "organization": "American Savings Bank",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016-04",
+      "endDate": "2016-04",
+      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
+      "highlights": [
+        "Helping the community",
+        "Teamwork",  
 ]
     }
   ],
