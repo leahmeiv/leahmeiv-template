@@ -58,6 +58,7 @@
         "Javascript",
         "HTML",
         "CSS",
+        "C/C++",
       ]
     },
     {
@@ -77,11 +78,12 @@
       "startDate": "2017-08-11",
       "endDate": "Present",
       "gpa": "3.08",
-      "courses": ["ICS 311: Algorithms", 
-                  "ICS 314: Software Engineering",
-                  "MATH 242: Calculus 2",
-                  "SPAN 202: Spanish 4",
-                  "AMST 150: American and the World"
+      "courses": ["ICS 212: Program Structure ", 
+                  "ICS 321: Data Storage",
+                  "CHEM 162: General Chemistry II ",
+                  "CHEM 162L: General Chemistry Lab II ",
+                  "ECON 130: Principles of Microeconomics",
+                  "WS 350: Sex Diffs in the Life Cycle"
       ]
     }
   ],
