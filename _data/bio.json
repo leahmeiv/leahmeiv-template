@@ -78,16 +78,16 @@
       "startDate": "2017-08-11",
       "endDate": "Present",
       "gpa": "3.01",
-      "completedCourses": ["ICS 111: ICS Intro I ",
-                                "ICS 141: ICS Discrete Math I ",
-                                "ICS 211: ICS Intro II ",
-                                "ICS 212: Program Structure ", 
-                                "ICS 241: ICS Discrete Math II ",
-                                "ICS 311: Algorithms ",
-                                "ICS 314: Software Engineering I",
-                                "ICS 321: Database Systems I",
-                                 "ICS 332: Operating Systems (present) ",
-                                "ICS 414: Software Engineering II (present)"
+      "courses": ["ICS 111: ICS Intro I ",
+                   "ICS 141: ICS Discrete Math I ",
+                 "ICS 211: ICS Intro II ",
+            "ICS 212: Program Structure ", 
+         "ICS 241: ICS Discrete Math II ",
+ "ICS 311: Algorithms ",
+   "ICS 314: Software Engineering I",
+   "ICS 321: Database Systems I",
+   "ICS 332: Operating Systems (present) ",
+  "ICS 414: Software Engineering II (present)"
       ]
     }
   ],
