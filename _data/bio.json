@@ -214,8 +214,8 @@
   "references": [
     {
       "name": "Dana Singer",
-      "reference": "Email: dsinger@hawaii.edu",
-      "Number: 956-7381"
+      "reference": "dsinger@hawaii.edu",
+      "number:" "956-7381"
     }
   ]
 }
