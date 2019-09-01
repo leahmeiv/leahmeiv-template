@@ -78,7 +78,7 @@
       "startDate": "2017-08-11",
       "endDate": "Present",
       "gpa": "3.01",
-      "completedICSCourses": ["ICS 111: ICS Intro I ",
+      "completedCourses": ["ICS 111: ICS Intro I ",
                                 "ICS 141: ICS Discrete Math I ",
                                 "ICS 211: ICS Intro II ",
                                 "ICS 212: Program Structure ", 
