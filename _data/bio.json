@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Fall 2021)",
+      "area": "Computer Science (expected graduation Fall 2021) with Minor in Women Studies",
       "studyType": "B.S.",
       "startDate": "2017-08-11",
       "endDate": "Present",
@@ -121,11 +121,11 @@
       "position": "Volunteer",
       "startDate": "2016-04",
       "endDate": "",
-      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
+      "summary": "Assisted American Savings Bank Seeds of Service with the beautification of A'ala Park. My team was in charge of painting the lightpoles and painting over grafitti",
       "highlights": [
         "Helping the community",
         "Teamwork",  
-   
+  
       ]
     },
     { 
@@ -133,9 +133,9 @@
       "organization": "Bizgenics Foundation: Lemonade Alley",
       "website": "http://http://lemonadealley.com/",
       "position": "Volunteer",
-      "startDate": "2016-04",
+      "startDate": "",
       "endDate": "",
-      "summary": "Assisted the kids to prepare them to present their lemonade stands",
+      "summary": "Assisted children participants to prepare for their turn to present their lemonade stands and drinks to the judges. ",
       "highlights": [
         "Seeing happy children",
         "Maintain a healthy relationship with the children",
@@ -148,11 +148,13 @@
       "website": "",
       "position": "Volunteer",
       "startDate": "2015-11",
-      "endDate": "2015-11",
-      "summary": "Children with disabilities were assisted in creating paper turkies for Thanksgiving along with other fun activities",
+      "endDate": "",
+      "summary": "Assisted children with disabilities to create paper turkies for Thanksgiving. We also had extra time to play other fun activities, like soccer",
       "highlights": [
         "Helping disabled children create arts and crafts for Thanksgiving",
-        "Collaborating with college students as a high school student"
+        "Collaborating with college students as a high school student",
+        "Gaining social skills",
+        "Team Bonding"
       ]
     },
     {
@@ -160,8 +162,8 @@
       "website": "",
       "position": "Volunteer",
       "startDate": "2015-12",
-      "endDate": "2015-12",
-      "summary": "Made arts and crafts with geriatric patients and played bingo with them",
+      "endDate": "",
+      "summary": "Made arts and crafts with geriatric patients and played bingo",
       "highlights": [
         "Making bowl maracas with the geriatric patients",
         "Collaborating with college students as a high school student",
@@ -173,8 +175,8 @@
       "website": "",
       "position": "Volunteer",
       "startDate": "2015-04",
-      "endDate": "2015-04",
-      "summary": "Helped clean up A'ala Park by picking up the trash surrounding the area.",
+      "endDate": "",
+      "summary": "Assisted the American Savings Bank seeds of services to clean up A'ala Park. My team was in charge of picking up the trash surrounding the area.",
       "highlights": [
         "Helping the community",
         "Teamwork"
@@ -185,7 +187,7 @@
       "website": "",
       "position": "Volunteer",
       "startDate": "2014-07",
-      "endDate": "2014-07",
+      "endDate": "",
       "summary": "Beautification of University of Hawaii at Manoa",
       "highlights": [
         "Painted curbs",
@@ -199,7 +201,7 @@
       "website": "",
       "position": "Volunteer",
       "startDate": "2012-09",
-      "endDate": "2012-09",
+      "endDate": "",
       "summary": "Decorated a ballroom and the Hawaii Convention Center for Boogie Wonderland",
       "highlights": [
         "Creating centerpieces",
