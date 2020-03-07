@@ -3,10 +3,10 @@
     "name": "Leah-Mei Villanueva",
     "label": "Student",
     "picture": "https://leahmeiv.github.io/images/leah.png",
-    "email": "leahmei@hawaii.edu",
+    "email": "leahmei@hawaii.edu", "mclevilla@gmail.com"
     "phone": "",
     "website": "https://leahmeiv.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2021.",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -86,8 +86,11 @@
  "ICS 311: Algorithms ",
    "ICS 314: Software Engineering I",
    "ICS 321: Database Systems I",
-   "ICS 332: Operating Systems (present) ",
-  "ICS 414: Software Engineering II (present)"
+   "ICS 332: Operating Systems ",
+  "ICS 414: Software Engineering II",
+                  "ICS 427: Software Quality Assurance (present)",
+                  "ICS 451: Data Networks (present)",
+                  "ICS 465: Intro to Hypermedia (present)"
       ]
     }
   ],
@@ -98,40 +101,45 @@
       "website": "http://manoa.hawaii.edu/durp/",
       "startDate": "2018-10-19",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Assists Graduate Students' Department of Urban and Regional Planning in dealing with confidential paperwork, which may include check requests and faculty/student documents. ",
       "highlights": [
-        "Maintain and update DURP website",
+        "Maintain and update front end of DURP website",
         "Answer phone and respond to emails",
         "Keep track of student and faculty files and update when neccesary",
-        "Have skill in using XEROX machine"
+        "Have skill in using XEROX machine",
+        "Computer skills",
+        "Gained social skills"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Child and Family Services",
-      "website": "",
+
+   "organization": "American Savings Bank",
+      "website": "https://www.asbhawaii.com/about-us/seeds-of-service",
       "position": "Volunteer",
-      "startDate": "2012-09",
-      "endDate": "2012-09",
-      "summary": "Decorated a ballroom and the Hawaii Convention Center for Boogie Wonderland",
+      "startDate": "2016-04",
+      "endDate": "2016-04",
+      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
       "highlights": [
-        "Creating centerpieces",
-        "Teamwork"
+        "Helping the community",
+        "Teamwork",  
+   
       ]
     },
     { 
-       "organization": "American Savings Bank",
-      "website": "",
+
+      "organization": "Bizgenics Foundation: Lemonade Alley",
+      "website": "http://http://lemonadealley.com/",
       "position": "Volunteer",
-      "startDate": "2014-07",
-      "endDate": "2014-07",
-      "summary": "Beautification of University of Hawaii at Manoa",
+      "startDate": "2016-04",
+      "endDate": "2016-04",
+      "summary": "Assisted the kids to prepare them to present their lemonade stands",
       "highlights": [
-        "Painted curbs",
-        "Teamwork",
-        "Planted baby bamboo trees",
-        "Raked leaves and pulled weeds out"
+        "Seeing happy children",
+        "Maintain a healthy relationship with the children",
+        "Leadership"
+ 
       ]
     },
     {
@@ -172,28 +180,29 @@
       ]
     },
     {  
-      "organization": "Bizgenics Foundation: Lemonade Alley",
-      "website": "http://http://lemonadealley.com/",
-      "position": "Volunteer",
-      "startDate": "2016-04",
-      "endDate": "2016-04",
-      "summary": "Assisted the kids to prepare them to present their lemonade stands",
-      "highlights": [
-        "Seeing happy children",
-        "Maintain a healthy relationship with the children",
-        "Leadership"
-         ]
-    },
-    {  
     "organization": "American Savings Bank",
       "website": "",
       "position": "Volunteer",
-      "startDate": "2016-04",
-      "endDate": "2016-04",
-      "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
+      "startDate": "2014-07",
+      "endDate": "2014-07",
+      "summary": "Beautification of University of Hawaii at Manoa",
       "highlights": [
-        "Helping the community",
-        "Teamwork",  
+        "Painted curbs",
+        "Teamwork",
+        "Planted baby bamboo trees",
+        "Raked leaves and pulled weeds out"
+         ]
+    },
+    {  
+    "organization": "Child and Family Services",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2012-09",
+      "endDate": "2012-09",
+      "summary": "Decorated a ballroom and the Hawaii Convention Center for Boogie Wonderland",
+      "highlights": [
+        "Creating centerpieces",
+        "Teamwork"
       ]
     }
   ],
