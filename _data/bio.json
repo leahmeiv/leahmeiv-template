@@ -53,7 +53,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [ 
         "Java",
         "Javascript",
@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Spring, 2021)",
+      "area": "Computer Science (expected graduation Fall 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-11",
       "endDate": "Present",
@@ -120,7 +120,7 @@
       "website": "https://www.asbhawaii.com/about-us/seeds-of-service",
       "position": "Volunteer",
       "startDate": "2016-04",
-      "endDate": "2016-04",
+      "endDate": "",
       "summary": "Helped clean up A'ala Park by painting the lightpoles and painting over grafitti",
       "highlights": [
         "Helping the community",
@@ -134,7 +134,7 @@
       "website": "http://http://lemonadealley.com/",
       "position": "Volunteer",
       "startDate": "2016-04",
-      "endDate": "2016-04",
+      "endDate": "",
       "summary": "Assisted the kids to prepare them to present their lemonade stands",
       "highlights": [
         "Seeing happy children",
