@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Leah-Mei Villanueva",
-    "label": "Student",
+    "label": "Alumni",
     "picture": "https://leahmeiv.github.io/images/leah.png",
     "email": "leahmei@hawaii.edu",
     "email": "mclevilla@gmail.com",
     "website": "https://leahmeiv.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2021.",
+    "summary": "I am Bachelor of Science in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Fall 2020.",
  
     "location": {
       "address": "",
@@ -30,7 +30,7 @@
   },
   "interests": [
     {
-      "name": "Gaming",
+      "name": "Information Technology",
       "keywords": [
       ]
     },
@@ -68,30 +68,19 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "Windows",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Fall 2021) with Minor in Women Studies",
+      "area": "Computer Science Alumni for Fall 2020",
       "studyType": "B.S.",
       "startDate": "2017-08-11",
-      "endDate": "Present",
+      "endDate": "2020-12-19",
       "gpa": "3.01",
-      "courses": ["ICS 111: ICS Intro I ",
-                   "ICS 141: ICS Discrete Math I ",
-                 "ICS 211: ICS Intro II ",
-            "ICS 212: Program Structure ", 
-         "ICS 241: ICS Discrete Math II ",
- "ICS 311: Algorithms ",
-   "ICS 314: Software Engineering I",
-   "ICS 321: Database Systems I",
-   "ICS 332: Operating Systems ",
-  "ICS 414: Software Engineering II",
-                  "ICS 427: Software Quality Assurance (present)",
-                  "ICS 451: Data Networks (present)",
-                  "ICS 465: Intro to Hypermedia (present)"
+      "courses": ["
       ]
     }
   ],
@@ -101,7 +90,7 @@
       "position": "Office Assistant II",
       "website": "http://manoa.hawaii.edu/durp/",
       "startDate": "2018-10-19",
-      "endDate": "Present",
+      "endDate": "2021-02-26",
       "summary": "Assists Graduate Students' Department of Urban and Regional Planning in dealing with confidential paperwork, which may include check requests and faculty/student documents. ",
       "highlights": [
         "Maintain and update front end of DURP website",
